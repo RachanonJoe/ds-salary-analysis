@@ -21,6 +21,6 @@
 
 ## Before proceeding, we need to decide on how we want to categorize the salary. For instance:
 >
-    Low salary: < $50,000<br>
-    Medium salary: $50,000 - $100,000<br>
-    High salary: > $100,000<br>
+    Low salary: < $50,000
+    Medium salary: $50,000 - $100,000
+    High salary: > $100,000
