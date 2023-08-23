@@ -7,20 +7,20 @@
 ## The dataset contains the following features:
 
 > 
-    work_year: The year of the data.<br>
-    experience_level: The level of experience of the employee.<br>
-    employment_type: Type of employment (e.g., full-time, contract).<br>
-    job_title: Title of the job.<br>
-    salary: Salary value.<br>
-    salary_currency: Currency in which the salary is paid.<br>
-    salary_in_usd: Salary converted to USD.<br>
-    employee_residence: The residence of the employee.<br>
-    remote_ratio: The ratio of remote work.<br>
-    company_location: Location of the company.<br>
-    company_size: Size of the company.<br>
+    work_year: The year of the data.
+    experience_level: The level of experience of the employee.
+    employment_type: Type of employment (e.g., full-time, contract).
+    job_title: Title of the job.
+    salary: Salary value.
+    salary_currency: Currency in which the salary is paid.
+    salary_in_usd: Salary converted to USD.
+    employee_residence: The residence of the employee.
+    remote_ratio: The ratio of remote work.
+    company_location: Location of the company.
+    company_size: Size of the company.
 
 ## Before proceeding, we need to decide on how we want to categorize the salary. For instance:
 >
- Low salary: < $50,000<br>
- Medium salary: $50,000 - $100,000<br>
- High salary: > $100,000<br>
+    Low salary: < $50,000<br>
+    Medium salary: $50,000 - $100,000<br>
+    High salary: > $100,000<br>
